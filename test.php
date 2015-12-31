@@ -5,7 +5,6 @@ require_once "vendor/autoload.php";
 use Symfony\Component\EventDispatcher\EventDispatcher;
 use Symfony\Component\EventDispatcher\Event;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
-use Acme\StoreBundle\Event\StoreSubscriber;
 
 class Console
 {
