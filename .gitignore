@@ -1,0 +1,8 @@
+composer.lock
+vendor/
+*.bak
+*.swp
+*.swap
+*.old
+*.back
+.DS_Store
